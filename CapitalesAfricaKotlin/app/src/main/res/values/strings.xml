@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Capitales de África Mejorado</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="slogan1">Aprende</string>
+    <string name="slogan2">las</string>
+    <string name="slogan3">CAPITALES</string>
+    <string name="slogan4">de</string>
+    <string name="slogan5">ÁFRICA</string>
+    <string name="slogan6">🌍</string>
+    <string name="descripcion_imagen">Imagen "Continente África con tigre"</string>
+    <string name="introduzca">INDICA SU CAPITAL</string>
+    <string name="otro">Mostrar otro país</string>
+    <string name="descripcion_boton">Botón "Mostrar otro país"</string>
+    <string name="lista"><u>Lista de capitales escogidas</u></string>
+    <string name="descripcion_correccion">Imagen "Correcto/Falso"</string>
+</resources>
